@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bdmiBackend", "bdmiBackend\bdmiBackend.csproj", "{45F533ED-135C-475D-94A5-971E0C41D2EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{123C5C6F-6FD8-4F40-8B3E-2F230409D6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F533ED-135C-475D-94A5-971E0C41D2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F533ED-135C-475D-94A5-971E0C41D2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F533ED-135C-475D-94A5-971E0C41D2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F533ED-135C-475D-94A5-971E0C41D2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123C5C6F-6FD8-4F40-8B3E-2F230409D6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123C5C6F-6FD8-4F40-8B3E-2F230409D6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123C5C6F-6FD8-4F40-8B3E-2F230409D6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123C5C6F-6FD8-4F40-8B3E-2F230409D6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E383DC9-6951-4E56-AB2E-C81D10233B9D}
+	EndGlobalSection
+EndGlobal
